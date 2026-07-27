@@ -107,25 +107,9 @@ Cloud Native Event Management Platform deployed on Microsoft Azure
 
 ---
 
+🎥 **VidoNFTS**
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh502&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veeresh502&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
+A decentralized NFT marketplace that enables users to securely **buy and sell video NFTs** using **MetaMask** wallet integration. Built on blockchain technology to provide transparent ownership, seamless transactions, and a user-friendly trading experience.
 
 ---
 
