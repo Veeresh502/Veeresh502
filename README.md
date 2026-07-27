@@ -50,14 +50,6 @@
 
 ---
 
-## 🏆 Research
-
-📄 Published Research Paper
-
-**CBAM-Driven Multi-Scale YOLOv8 Architecture for High-Precision Small Debris Detection in LEO**
-
----
-
 # 💻 Tech Stack
 
 <div align="center">
@@ -87,45 +79,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Spatio-Temporal GNN + Generative AI
-
-Enterprise Cyber Anomaly Detection using **GraphSAGE + GRU + LLMs**
-
----
-
-## 🛰️ YOLOv8 + CBAM
-
-High-Precision Small Debris Detection in Low Earth Orbit
-
----
-
-## 🏭 Audit Portal
-
-Enterprise Audit Management System with RBAC Authentication
-
----
-
-## ☁️ EventLens
-
-Cloud-Native Event Management Platform deployed on Microsoft Azure
-
----
-
-## 🎥 VidoNFTS
-
-Decentralized Video NFT Marketplace
-
-- 🔐 MetaMask Authentication
-- 💰 Buy & Sell Video NFTs
-- ⛓ Ethereum Smart Contracts
-- 🌐 Web3 Integration
-
-**Tech Stack:** Solidity • Ethereum • MetaMask • Web3
 
 ---
 
