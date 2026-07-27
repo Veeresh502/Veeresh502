@@ -15,8 +15,6 @@
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Student @ **KLE Technological University**
-
 💡 Passionate about building scalable software, AI-powered applications, and cloud-native systems.
 
 🚀 I enjoy transforming ideas into production-ready applications while continuously learning modern technologies.
@@ -26,19 +24,15 @@
 ## 🚀 Interests
 
 - 🤖 Artificial Intelligence
-- 📊 Data Engineering
 - ☁️ Cloud Computing
 - ⚙️ Backend Development
 - 📈 Machine Learning
-- 🌐 Distributed Systems
-- 🔗 Blockchain & Web3
 
 ---
 
 ## 🌱 Currently Learning
 
 - ⚡ Apache Spark
-- ☸ Kubernetes
 - 🏗 System Design
 - 📚 Advanced DSA
 - 🛢 Enterprise Data Platforms
