@@ -1,77 +1,81 @@
 <div align="center">
 
-# Hey there 👋 I'm Veeresh Hiremath
+# 👋 Hey there, I'm Veeresh Hiremath
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Engineering+Enthusiast;AI+%7C+Machine+Learning;Backend+Developer;Cloud+%26+DevOps+Explorer;Always+Building+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Data+Engineering+Enthusiast;AI+%7C+Machine+Learning+Researcher;Backend+Developer;Cloud+%26+DevOps+Explorer;Always+Learning+Something+New+🚀" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering Student @ **KLE Technological University**
 
-💡 Passionate about building scalable software, intelligent systems and cloud-native applications.
+💡 Passionate about designing scalable software, AI-powered applications, and enterprise cloud systems.
 
-🚀 Interested in
+🚀 **Interests**
 
-- Data Engineering
-- Machine Learning
-- Artificial Intelligence
-- Cloud Computing
-- Backend Development
-- Distributed Systems
+- 🤖 Artificial Intelligence
+- 📊 Data Engineering
+- ☁ Cloud Computing
+- ⚙ Backend Development
+- 📈 Machine Learning
+- 🌐 Distributed Systems
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Apache Spark
 - Kubernetes
 - System Design
-- Advanced DSA
+- Advanced Data Structures & Algorithms
 - Enterprise Data Platforms
 
-⚡ Motto
+🏆 **Research**
 
-> *Build. Learn. Improve. Repeat.*
+📄 Published Research Paper on
+
+**CBAM-Driven Multi-Scale YOLOv8 Architecture for High-Precision Small Debris Detection in LEO**
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql"/>
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### AI / ML
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,opencv"/>
 </p>
 
 ### Cloud & DevOps
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux"/>
 </p>
 
-### Database
+### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
@@ -80,32 +84,52 @@
 # 🚀 Featured Projects
 
 🧠 **Spatio-Temporal GNN + Generative AI**
-> Enterprise cyber anomaly detection using GraphSAGE, GRU and LLMs
 
-🛰 **YOLOv8 + CBAM**
-> High precision small debris detection in Low Earth Orbit
-
-🏭 **Audit Portal**
-> Enterprise audit management platform with RBAC authentication
-
-☁ **EventLens**
-> Cloud-native Event Management Platform deployed on Microsoft Azure
+Enterprise Cyber Anomaly Detection using GraphSAGE, GRU & LLMs
 
 ---
 
-# 📊 GitHub Analytics
+🛰 **YOLOv8 + CBAM**
+
+High Precision Small Debris Detection in Low Earth Orbit
+
+---
+
+🏭 **Audit Portal**
+
+Enterprise Audit Management System with RBAC Authentication
+
+---
+
+☁ **EventLens**
+
+Cloud Native Event Management Platform deployed on Microsoft Azure
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veeresh502&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veeresh502&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Veeresh502&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Veeresh502&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh502&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh502&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veeresh502&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -115,32 +139,26 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Veeresh502&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Veeresh502&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌐 Connect with Me
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeresh502&theme=tokyo-night)](https://github.com/Veeresh502)
-
----
-
-# 🌎 Connect with Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/veeresh-hiremath">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:veereshsh673@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Veeresh502">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -149,12 +167,14 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Veeresh502&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Veeresh502&style=for-the-badge&color=blue"/>
 
 </p>
 
+---
+
 <div align="center">
 
-### ⭐ *"Turning ideas into scalable software and intelligent systems."*
+## ⭐ *"Building scalable software, intelligent systems, and impactful technology."*
 
 </div>
