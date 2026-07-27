@@ -107,15 +107,6 @@ Cloud Native Event Management Platform deployed on Microsoft Azure
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veeresh502&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Veeresh502&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -135,13 +126,6 @@ Cloud Native Event Management Platform deployed on Microsoft Azure
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Veeresh502&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
