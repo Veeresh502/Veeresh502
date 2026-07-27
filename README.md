@@ -1,6 +1,7 @@
-<div align="center">
-
-<h1>👋 Hey there, I'm Veeresh Hiremath</h1>
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35">
+  Hey there, I'm Veeresh Hiremath
+</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Data+Engineering+Enthusiast;AI+%7C+Machine+Learning+Researcher;Backend+Developer;Cloud+%26+DevOps+Explorer;Always+Learning+Something+New" alt="Typing SVG"/>
 
