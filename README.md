@@ -2,7 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there, I'm Veeresh Hiremath
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Data+Engineering+Enthusiast;AI+%7C+Machine+Learning+Researcher;Backend+Developer;Cloud+%26+DevOps+Explorer;Always+Building+Something+Awesome+🚀" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Researcher;Data+Engineering+Enthusiast;Backend+Developer;Cloud+Explorer" />
+</p>
 
 <br>
 
