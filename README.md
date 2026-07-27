@@ -2,9 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there, I'm Veeresh Hiremath
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Researcher;Data+Engineering+Enthusiast;Backend+Developer;Cloud+Explorer" />
-</p>
 
 <br>
 
